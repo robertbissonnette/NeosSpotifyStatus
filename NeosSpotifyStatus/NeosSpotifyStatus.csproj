@@ -14,12 +14,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="AbsoluteTimer" Version="1.0.1" />
+    <PackageReference Include="AbsoluteTimer.LinuxCompat" Version="1.1.2" />
     <PackageReference Include="EmbedIO" Version="3.4.3" />
-    <PackageReference Include="ini-parser" Version="2.5.2" />
+    <PackageReference Include="ini-parser-netstandard" Version="2.5.2" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="SpotifyAPI.Web.Auth" Version="6.2.2" />
-    <PackageReference Include="WebSocketSharp" Version="1.0.3-rc11" />
+    <PackageReference Include="websocketsharp.core" Version="1.0.0" />
   </ItemGroup>
 
   <ItemGroup>
